@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: 250px auto;
 }
 
 .App-logo {
@@ -35,4 +36,19 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Button {
+  width: 120px;
+  height: 48px;
+  margin-right: 24px;
+  background-color: #61dafb;
+  border-radius: 6px;
+  border: 1px solid #61dafb;
+}
+.Remove-Button {
+  color: #fa5690;
+  background-color: #fff;
+  border: 1px solid #fa5690;
+  margin-left: 4px;
 }
